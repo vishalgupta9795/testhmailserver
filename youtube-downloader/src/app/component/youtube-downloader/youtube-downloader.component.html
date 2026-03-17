@@ -1,0 +1,8 @@
+<input [(ngModel)]="videoUrl" placeholder="Enter YouTube URL">
+
+<select [(ngModel)]="selectedFormat">
+  <option value="mp4">MP4</option>
+  <option value="mp3">MP3</option>
+</select>
+
+<button (click)="download()">Download</button>
