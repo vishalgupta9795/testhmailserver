@@ -1,0 +1,78 @@
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\appsettings.json
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.staticwebassets.endpoints.json
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.exe
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.deps.json
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.runtimeconfig.json
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.dll
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.pdb
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.csproj.AssemblyReference.cache
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.AssemblyInfoInputs.cache
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.AssemblyInfo.cs
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.csproj.CoreCompileInputs.cache
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\scopedcss\bundle\Hmail project.styles.css
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.Hmail project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.Hmail project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.build.Hmail project.props
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hmail project.props
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hmail project.props
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail pr.FF052BF3.Up2Date
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.dll
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\refint\Hmail project.dll
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.pdb
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.genruntimeconfig.cache
+D:\Projects\Hmail project\Hmail project\obj\Debug\net8.0\ref\Hmail project.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\appsettings.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.staticwebassets.endpoints.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.exe
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.deps.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.runtimeconfig.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Hmail project.pdb
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\MailKit.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\MimeKit.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.csproj.AssemblyReference.cache
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.AssemblyInfoInputs.cache
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.AssemblyInfo.cs
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.csproj.CoreCompileInputs.cache
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\scopedcss\bundle\Hmail project.styles.css
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.Hmail project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.Hmail project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.build.Hmail project.props
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hmail project.props
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hmail project.props
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail pr.FF052BF3.Up2Date
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\refint\Hmail project.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.pdb
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\Hmail project.genruntimeconfig.cache
+D:\Projects\Hmail projects\Hmail project\Hmail project\obj\Debug\net8.0\ref\Hmail project.dll
+D:\Projects\Hmail projects\Hmail project\Hmail project\bin\Debug\net8.0\Newtonsoft.Json.dll
